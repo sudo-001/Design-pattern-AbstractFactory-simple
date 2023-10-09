@@ -1,4 +1,3 @@
-// package PatternAbstractFactory.code;
 
 public class ProduitA2 extends ProduitA {
     public void methodeA() {

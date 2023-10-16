@@ -1,3 +1,4 @@
+// package PatternAbstractFactory.code;
 
 public interface IProduitFactory {
     public ProduitA getProduitA();

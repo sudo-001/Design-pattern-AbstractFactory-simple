@@ -1,3 +1,4 @@
+// package PatternAbstractFactory.code;
 
 public class ProduitFactory1 implements IProduitFactory {
     public ProduitA getProduitA() {
